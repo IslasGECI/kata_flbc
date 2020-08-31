@@ -16,6 +16,17 @@ código de cuatro letras correspondiente.
 1. Haz _pull request_
 1. Usa GitHub (_issues_, _pull requests_ y _team discussions_) como el único medio de comunicación
 
+## Ejecución de la aplicación
+
+Para revisar la versión final de la aplicación, ejecutaremos lo siguiente:
+
+```
+git clone https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}.git
+cd kata_flbc_${TU_NOMBRE}
+docker build --tag islasgeci .
+docker run islasgeci make run
+```
+
 ## Rúbrica
 
 Evaluaremos los siguientes rubros:

@@ -10,7 +10,7 @@ Por favor lee la siguiente nota:
 Debes crear una aplicación de cualquier tipo que reciba el nombre común de un ave y devuelva el
 código de cuatro letras correspondiente. Esperamos ver avances graduales en ciclos cortos. Nos
 gustaría que la aplicación la desarrolles con varios _pull requests_ y que cada _pull request_ 
-tenga un avance pequeño. Así te proponemos: 
+tenga un avance pequeño. Por lo que te proponemos: 
 
 1. Crea un _fork_ del repositorio `https://github.com/IslasGECI/kata_flbc_<TU NOMBRE>`
 1. Haz pasar GitHub Actions (necesitarás agregar un `Makefile`)
@@ -43,7 +43,7 @@ distancia. Para eso usaremos los siguientes rubros:
     es amable, la descripción es clara y da formato utilizando _Markdown_)
   - [ ] Solicitud de revisiones (Utilización de [las
     características](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
-    de GitHub para indicar terminó una corrección y que está solicitando una nueva revisión)
+    de GitHub para indicar que terminó una corrección y que está solicitando una nueva revisión)
   - [ ] Asimilación de retroalimentación (Las correcciones solicitadas en un _pull request_ ya no se
     repiten en los siguientes _pull requets_)
 

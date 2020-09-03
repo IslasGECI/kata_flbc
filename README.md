@@ -33,15 +33,30 @@ docker run islasgeci make run
 
 ## Rúbrica
 
-Evaluaremos los siguientes rubros:
+El objetivo de este examen de selección es evaluar las habilidades para el trabajo colaborativo a
+distancia. Para eso usaremos los siguientes rubros:
 
-- **Capacidad para el trabajo remoto y colaborativo**: Uso de Git; habilidades de comunicación
-  mediante GitHub (_issues_, _pull requests_ y _team discussions_); solicitud de revisiones;
-  asimilación de retroalimentación
-- **Buenas prácticas en programación**: Refactorización; principios de diseño de software; pruebas
-  unitarias
-- **Automatización y reproducibilidad**: Uso de GitHub Actions, Docker y Make; principios ágiles y
-  de DevOps
+- **Capacidad para el trabajo remoto y colaborativo**: 
+  - [ ] Uso de Git  (Los mensajes son informativos del porqué, las consignaciones son pequeñas y los
+    nombres de las ramas dan información del objetivo de los cambios)
+  - [ ] Habilidades de comunicación mediante GitHub (_issues_ y _pull requests_: La comunicación de
+    es amable, la descripción es clara y da formato utilizando _Markdown_)
+  - [ ] Solicitud de revisiones (Utilización de [las
+    características](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
+    de GitHub para indicar terminó una corrección y que está solicitando una nueva revisión)
+  - [ ] Asimilación de retroalimentación (Las correcciones solicitadas en un _pull request_ ya no se
+    repiten en los siguientes _pull requets_)
+
+- **Buenas prácticas en programación**: 
+  - [ ] Refactorización
+  - [ ] Principios de diseño de software
+  - [ ] Pruebas unitarias
+
+- **Automatización y reproducibilidad**: 
+  - [ ] Uso de GitHub Actions
+  - [ ] Uso de Docker
+  - [ ] Uso de Make
+  - [ ] Principios ágiles y de DevOps
 
 ## Sugerencias
 

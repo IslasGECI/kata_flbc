@@ -51,8 +51,8 @@ distancia. Para eso usaremos los siguientes rubros:
 - **Capacidad para el trabajo remoto y colaborativo**: 
   - [ ] Uso de Git  (Los mensajes son informativos del porqué, las consignaciones son pequeñas y los
     nombres de las ramas dan información del objetivo de los cambios)
-  - [ ] Habilidades de comunicación mediante GitHub (_issues_ y _pull requests_: La comunicación de
-    es amable, la descripción es clara y da formato utilizando _Markdown_)
+  - [ ] Habilidades de comunicación mediante GitHub (_issues_ y _pull requests_: La comunicación es
+    amable, la descripción es clara y da formato utilizando _Markdown_)
   - [ ] Solicitud de revisiones (Utilización de [las
     características](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/requesting-a-pull-request-review)
     de GitHub para indicar que terminó una corrección y que está solicitando una nueva revisión)

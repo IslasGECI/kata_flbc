@@ -22,7 +22,9 @@ Por favor no esperes a que la aplicación esté terminada para someter tu primer
 
 ## Ejecución de la aplicación
 
-Para revisar la versión final de la aplicación, ejecutaremos lo siguiente:
+Para revisar la versión final de la aplicación, ejecutaremos una de las siguientes opciones:
+
+Opción 1:
 
 ```
 git clone https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}.git
@@ -30,6 +32,16 @@ cd kata_flbc_${TU_NOMBRE}
 docker build --tag islasgeci .
 docker run islasgeci make run
 ```
+
+Opción 2:
+
+```
+git clone https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}.git
+cd kata_flbc_${TU_NOMBRE}
+docker-compose up
+```
+
+Tú puedes elegir cualquiera de las dos opciones anteriores que prefieras.
 
 ## Rúbrica
 

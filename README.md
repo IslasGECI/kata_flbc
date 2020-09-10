@@ -17,11 +17,10 @@ un avance pequeño. Por lo que te proponemos:
    del repositorio `https://github.com/IslasGECI/kata_flbc_<TU NOMBRE>`
 1. Haz pasar GitHub Actions (necesitarás agregar un `Makefile`)
 1. Cubre tu código con pruebas
-1. Haz múltiples _pull requests_[*](#nota) pequeños 
+1. Haz múltiples _pull requests_ pequeños 
 1. Usa GitHub (_issues_ y _pull requests_) como el medio de comunicación principal
 
 Por favor no esperes a que la aplicación esté terminada para someter tu primer _pull request_.
-### * {#nota}
 Recuerda que no podrás crear ningún _pull request_ hasta que tengas tu
 [_fork_](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository).
 

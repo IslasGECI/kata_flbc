@@ -14,7 +14,7 @@ un avance pequeño. Por lo que te proponemos:
 
 1. Crea un
    [_fork_](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
-   del repositorio `https://github.com/IslasGECI/kata_flbc_<TU NOMBRE>`
+   del repositorio `https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}`
 1. Cubre tu código con pruebas
 1. Haz pasar GitHub Actions (necesitarás agregar un `Makefile` y un `Dockerfile`)
 1. Haz múltiples _pull requests_ pequeños 

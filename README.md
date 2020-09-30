@@ -7,10 +7,10 @@ Por favor lee la siguiente nota:
 
 ## Instrucciones
 
-Debes crear una aplicación de cualquier tipo que reciba el nombre común de un ave y devuelva el
-código de cuatro letras correspondiente. Esperamos ver avances graduales en ciclos cortos. Nos
-gustaría que la aplicación la desarrolles con varios _pull requests_ y que cada _pull request_ tenga
-un avance pequeño. Por lo que te proponemos: 
+Debes crear una aplicación web que reciba el nombre común de un ave y devuelva el código de cuatro
+letras correspondiente. Puedes usar cualquier lenguaje de programación. Esperamos ver avances
+graduales en ciclos cortos. Nos gustaría que la aplicación la desarrolles con varios _pull requests_
+y que cada _pull request_ tenga un avance pequeño. Por lo que te proponemos: 
 
 1. Crea un
    [_fork_](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository)
@@ -33,8 +33,7 @@ Opción 1:
 ```
 git clone https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}.git
 cd kata_flbc_${TU_NOMBRE}
-docker build --tag islasgeci .
-docker run islasgeci make run
+docker-compose up
 ```
 
 Opción 2:
@@ -42,10 +41,12 @@ Opción 2:
 ```
 git clone https://github.com/IslasGECI/kata_flbc_${TU_NOMBRE}.git
 cd kata_flbc_${TU_NOMBRE}
-docker-compose up
+docker build --tag islasgeci .
+docker run islasgeci make up
 ```
 
-Tú puedes elegir cualquiera de las dos opciones anteriores que prefieras.
+y evaluaremos lo que el navegador nos muestre en http://localhost. Tú puedes elegir cualquiera de
+las dos opciones anteriores que prefieras.
 
 ## Rúbrica
 
